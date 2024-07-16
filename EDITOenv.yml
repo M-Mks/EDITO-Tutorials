@@ -1,0 +1,19 @@
+name: EDITOenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.7
+  - xarray
+  - dask
+  - cartopy
+  - s3fs
+  - owslib
+  - geopandas
+  - netcdf4
+  - gdal
+  - zarr
+  - pandas
+  - numpy
+  - ipyleaflet
+  - rasterio
+  - rioxarray
