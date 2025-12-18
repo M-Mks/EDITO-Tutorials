@@ -7,7 +7,6 @@ EMODNet Data through services on the EDITO (European Digital Twin of The OCean) 
 
 The repository includes the following tutorials:
 
-- A 4 Part Tutorial to EMODNet OGC Web Services
 - A Tutorial on using GDAL and Visualisation libraries for accessing, reprojecting and visualising EMODnet Shapefiles.
 - A Tutorial on using Xarray, DASK and imshow to visualise large amounts of data in small amounts of time
 
